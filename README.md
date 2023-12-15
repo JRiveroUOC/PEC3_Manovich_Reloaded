@@ -8,7 +8,7 @@ Autor: Jorge Rivero Beltrán
 
 Fecha: Diciembre 2023
 
-![Cultura Digital](Lev Manovich.jpg) 
+![Cultura Digital]([Lev Manovich.jpg](https://github.com/JRiveroUOC/PEC3_Manovich_Reloaded/blob/main/Lev%20Manovich.jpg)) 
 
 
 
