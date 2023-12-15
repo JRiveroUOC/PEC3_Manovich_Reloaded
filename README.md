@@ -8,9 +8,16 @@ Autor: Jorge Rivero Beltrán
 
 Fecha: Diciembre 2023
 
-![Cultura Digital]([Lev Manovich.jpg](https://github.com/JRiveroUOC/PEC3_Manovich_Reloaded/blob/main/Lev%20Manovich.jpg)) 
+## Introducción
 
+![Lev Manovich.jpg](https://github.com/JRiveroUOC/PEC3_Manovich_Reloaded/blob/main/Lev%20Manovich.jpg)
 
+Lev Manovich en su libro "El software toma el mando" habla del concepto de hibridacion que esd posible gracias a la evolución de los medios y el software. Algunos de estos cambios ya forman parte de nuestro dia a dia, ya que los medios hibridos estan en constante cambio. Ademas, los medios hibridos pueden dar lugar a nuevas formas de representar la información, ya sea mediante interfaces, herramientas de vizualización, incluso convinaciones de distintos tipos. Para enter esto mejor podemos ver un caso muy interesante del que habla Manovich en su libro:
+>La Revolución "Velvet" puede entenderse como el
+período de hibridación sistemática entre diferentes especies de software diseñadas originalmente para trabajar en
+diferentes medios.<
+
+En esta revolucion se vivio un movimiento de lenguaje visual hibrido de imagenes en movimiento. Hoy este lenguaje domina nuestra cultura visual.
 
 ## Planteamiento
 
