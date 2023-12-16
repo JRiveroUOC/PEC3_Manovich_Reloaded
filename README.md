@@ -29,22 +29,27 @@ En primer lugar, Horizon Call of the Mountain es una experiencia completa de rea
 
 En Horizon VR se observvan varios casos de hibridacion:
 
-* Narrativa inmersiva: en este caso se produce una hibridacion en la narrativa ya que cambiua la forma en la que se presenta la historia. Por otro lado, ya no eres un personaje mas en un juego si no que eres tu mismo quien toma las desisiones de tu historia y eres capaz de involucrate aun mas con el entorno. Esto crea una nueva forma de vivir la trama en tiempo real y conectar con las emociones que trasnmite el medio en el que te encuentras
-* Combates 3D: las mecanicas adaptadas a la realidad virtual crean una experiencia nueva y completa al usar armas que interactuan con el meidio. Tambien en este sistema de compbete existen nuevas formas de esquivar y utilizar las coberturas que te proporciona el entorno.
-* Exploracion interactiva: La hibridacion se logra al m,mezclar la expoloracion tradicional en los videojuegos con la interaccion tridimensional que otorgan las gafas VR. es simple hecho de abrir un cajon o mover objetos se combierte en una experiencia completa.
-* Interfaz: Los controles específicos, gestos y movimientos naturales se convierten en la forma de interactuar con el mundo que ofrece Horizon. Claramente podemos ver la hibridaciojn que sufre esta adaptacion de interfaz e interaccion interactiva.
+* <b>Narrativa inmersiva</b>: en este caso se produce una hibridacion en la narrativa ya que cambiua la forma en la que se presenta la historia. Por otro lado, ya no eres un personaje mas en un juego si no que eres tu mismo quien toma las desisiones de tu historia y eres capaz de involucrate aun mas con el entorno. Esto crea una nueva forma de vivir la trama en tiempo real y conectar con las emociones que trasnmite el medio en el que te encuentras
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ATR0vlhDK1E/0.jpg)](https://www.youtube.com/watch?v=ATR0vlhDK1E)
+* <b>Combates 3D</b>: las mecanicas adaptadas a la realidad virtual crean una experiencia nueva y completa al usar armas que interactuan con el meidio. Tambien en este sistema de compbete existen nuevas formas de esquivar y utilizar las coberturas que te proporciona el entorno.
 
+* <b>Exploracion interactiva</b>: La hibridacion se logra al m,mezclar la expoloracion tradicional en los videojuegos con la interaccion tridimensional que otorgan las gafas VR. es simple hecho de abrir un cajon o mover objetos se combierte en una experiencia completa.
+
+* <b>Interfaz</b>: Los controles específicos, gestos y movimientos naturales se convierten en la forma de interactuar con el mundo que ofrece Horizon. Claramente podemos ver la hibridaciojn que sufre esta adaptacion de interfaz e interaccion interactiva.
+
+<br>
 
 <div align="center" >
-  <a href="https://www.youtube.com/watch?v=ATR0vlhDK1E"><img src="https://img.youtube.com/vi/ATR0vlhDK1E/0.jpg" width="100%" alt="IMAGE ALT TEXT"></a>
+  <a href="https://www.youtube.com/watch?v=ATR0vlhDK1E"><img src="https://img.youtube.com/vi/ATR0vlhDK1E/0.jpg" width="80%" alt="Trailer Horizon VR"></a>
 </div>
 
-Desdpues de nombrar algunos casos de hibridacion que se producen en Horizon Call of the Mountain podemos ver como este medio cambia muchos aspectos tradicionales en los videojuegos. Por otro lado
 
+
+<br>
+Desdpues de nombrar algunos casos de hibridacion que se producen en Horizon Call of the Mountain podemos ver como este medio cambia muchos aspectos tradicionales en los videojuegos. Por otro lado, esta experiencia envolvente es muy reciente y apenas hay opciones para crear comparativas, pero sin duda este es uno de los mejores casos de uso del VR en los videojuegos. Por ultimo, tendremos que seguir esperando a ver donde nos lleva esta nueva tecxnologia y que otros casos de hibridacion llegaran a copntemplar. 
 
 ## Re-descubriendo la hibridacion: Caso 1
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
