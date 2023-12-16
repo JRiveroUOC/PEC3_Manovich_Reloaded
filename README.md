@@ -23,7 +23,14 @@ En resumen, podemos apreciar como el concepto de hibridacion no solo actualiza u
 
 ![Horizon Call of the Mountain](https://github.com/JRiveroUOC/PEC3_Manovich_Reloaded/blob/main/Horizoncallmaountain1.jpeg)
 
+Horizon Call of the Mountain es un juego de realidad virtual desarrollado por <b>Gerrilla Games</b> y <b>Firesprite</b>. Esta entrega es parte de la saga Horizon y fue lanzada en Febrero de 2023.
 
+En primer lugar, Horizon Call of the Mountain es una experiencia completa de realidad virtual diseñada epecificamente para dispositivos VR. Ademas es un juego en primera persona lo que lo hace aun mas inmersivo ya que eres el protagonista de esta aventura, ayudado por su narrativa inmersa y esta nueva tecnologia que proporciona una experiencia envolvente.
+
+En Horizon VR se observvan varios casos de hibridacion:
+
+* Narrativa inmersa: en este caso se produce una hibridacion en la narrativa ya que cambiua la forma en la que se te presenta la historia. Por otro lado, ya no eres un personaje mas en un juego si no que eres tu mismo quien toma las desisiones de tu historia y eres capaz de involucrate aun mas con el entorno. Esto crea una nueva forma de vivir la trama en tiempo real y conectar con las emociones que trasnmite el medio en el que te encuentras
+* 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
