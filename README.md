@@ -29,8 +29,9 @@ En primer lugar, Horizon Call of the Mountain es una experiencia completa de rea
 
 En Horizon VR se observvan varios casos de hibridacion:
 
-* Narrativa inmersa: en este caso se produce una hibridacion en la narrativa ya que cambiua la forma en la que se te presenta la historia. Por otro lado, ya no eres un personaje mas en un juego si no que eres tu mismo quien toma las desisiones de tu historia y eres capaz de involucrate aun mas con el entorno. Esto crea una nueva forma de vivir la trama en tiempo real y conectar con las emociones que trasnmite el medio en el que te encuentras
-* 
+* Narrativa inmersiva: en este caso se produce una hibridacion en la narrativa ya que cambiua la forma en la que se presenta la historia. Por otro lado, ya no eres un personaje mas en un juego si no que eres tu mismo quien toma las desisiones de tu historia y eres capaz de involucrate aun mas con el entorno. Esto crea una nueva forma de vivir la trama en tiempo real y conectar con las emociones que trasnmite el medio en el que te encuentras
+* Combates 3D: las mecanicas adaptadas a la realidad virtual crean una experiencia nueva y completa al usar armas que interactuan con el meidio. Tambien en este sistema de compbete existen nuevas formas de esquivar y utilizar las coberturas que te proporciona el entorno.
+* Exploracion interactiva: La hibridacion se logra al m,mezclar la expoloracion tradicional en los videojuegos con la interaccion tridimensional que otorgan las gafas VR. es simple hecho de abrir un cajon o mover objetos se combierte en una experiencia completa.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
