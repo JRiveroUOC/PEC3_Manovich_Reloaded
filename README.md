@@ -88,7 +88,7 @@ En conclusión, podemos ver como la hibridación interactúa con los medios para
 * Oracle. (2019). [Help Center](https://docs.oracle.com/en/database/oracle/application-express/18/tutorial-create-dynamic-actions/)
 * Oracle Inteligencia artificial. (2023). [Oracle IA](https://www.oracle.com/es/artificial-intelligence/)
 * Manovich Web. (2023). [Manovich](http://manovich.net/)
-* Manovich Web. (December 2023). [Horizon Call of the Mountain](https://en.wikipedia.org/wiki/Horizon_Call_of_the_Mountain)
+* Horizon Call of the Mountain VR. (December 2023). [Horizon Call of the Mountain](https://en.wikipedia.org/wiki/Horizon_Call_of_the_Mountain)
 
 
 ----
