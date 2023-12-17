@@ -50,15 +50,27 @@ Desdpues de nombrar algunos casos de hibridacion que se producen en Horizon Call
 
 ## Oracle APEX
 
+![Oracle APEX](https://github.com/JRiveroUOC/PEC3_Manovich_Reloaded/blob/main/1920px-Dark-hero-screenshot_2x.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+En primer lugar, para entender los casos de hibridacion de Oracle APEX debemos hacernos esta pregunta.
 
+### ¿Qué es APEX?
+
+APEX es una platafoirma "low code" que permite crear aplicaciones web y movil escalables, seguras y con caracteristicas innovadoras, todo esto 20 veces mas rapido y 100 veces menos codigo.
+Ademas no es necesario ser un experto para mostrar soluciones sofisticadas y resolver cualquier tipo de problemas.
 
 
 ## Re-descubriendo la hibridacion: Caso 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+### Casos de hibridacion
+
+En APEX podemos ver multiples casos de hibridacion. 
+
+Integracion: APEX permite ccrear aplicaciones arrastando componente ya prediseñados que son totalmente "responsive" tanto para web como movil. Por otro lado, permite crearles funcionalidades a necesidad del desarrollador por medio de "dynamic actions" que actuan como eventes dol componente para darle el uso de evento de una web tales como click, cambios, arrastar y una larga lista de ellos. Esto dcrea una hibridacion entre maquetacion y programacion fortaleciendolas, esto hgace que el desarrollo sea mucho mas agil y elimina posibles errores de programacion o estilos.
+
+Workflow: En la segunda mitad de 2023 Oracle implemento esta nueva funcionalida que permite crear el workflow de una aplicacion. Hasta aghora, siempre hemos creado un diagrama de flujos y seguidamente desarrollado las funciones necesarias para que el workflow funcionara en nuestra aplicacion pero gracias a esta nueva funcioionalidad que ofrece APEX y junbta los diagramas con el flujo de los procesos podemos obtener en tiempo real el funcionamiento de nuestrrea aplicacion y modificarlo de forma muy sencilla
 
 ### Referencias y Bibliografía
 
