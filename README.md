@@ -78,9 +78,17 @@ Para acceder a la proxima sesion el dia 19 de Diciembre, podras registrate en el
 
 En resumen, podemos ver como la hibridacion en APEX se manifiesta en la integracion de distintas tecnologias y componentes. El potencial de esta plataforma es enorme y agiliza el desarrollo de las empresas dando luegar a enfocarse en la logica de negocios y no tanto en el desarrollo, ya qque otorga multiples herramientas para facilitarla.
 
+## Conclusión
+
+En conclusión, podemos ver como la hibridación intreractua con los medios para crear nuevas formas como podemos ver en estos dos casos. Estos ejemplos en los que nos hemos enfocado estan en constante evolucion, tanto los juegos VR como las herramientas de codigo generativo estan en auge y creando un nuevo merdcado que antes no existia. Por ultimo decir que he tienido la oportunidad de utilizar Oracle APEX gracias a que tengo liciencia de BBDD de Oracle y podido probar durante unas horas El Horizon VR. Del primero decir que es una herramienta super ptente y las proximas actualizaciones previstas para el 2024 vienen con mucha fuerza y del sugundo ddecir que es una experiencia entre cine y videojuegos que impresiona desde el primer momento en el que te pones las gafas
+
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Oracle. (2019). [Help Center](https://docs.oracle.com/en/database/oracle/application-express/18/tutorial-create-dynamic-actions/)
+* Oracle Inteligencia artificial. (2023). [Oracle IA](https://www.oracle.com/es/artificial-intelligence/)
+* Manovich Web. (2023). [Manovich](http://manovich.net/)
+* Manovich Web. (December 2023). [Horizon Call of the Mountain](https://en.wikipedia.org/wiki/Horizon_Call_of_the_Mountain)
 
 
 ----
