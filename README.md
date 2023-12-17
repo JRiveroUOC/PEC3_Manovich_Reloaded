@@ -76,6 +76,7 @@ En APEX podemos ver multiples casos de hibridacion.
 
 Para acceder a la proxima sesion el dia 19 de Diciembre, podras registrate en el siguiente enlace [Oracle IA](https://www.oracle.com/es/artificial-intelligence/).
 
+En resumen, podemos ver como la hibridacion en APEX se manifiesta en la integracion de distintas tecnologias y componentes. El potencial de esta plataforma es enorme y agiliza el desarrollo de las empresas dando luegar a enfocarse en la logica de negocios y no tanto en el desarrollo, ya qque otorga multiples herramientas para facilitarla.
 
 ### Referencias y Bibliografía
 
