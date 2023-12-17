@@ -60,17 +60,22 @@ APEX es una platafoirma "low code" que permite crear aplicaciones web y movil es
 Ademas no es necesario ser un experto para mostrar soluciones sofisticadas y resolver cualquier tipo de problemas.
 
 
-## Re-descubriendo la hibridacion: Caso 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
 ### Casos de hibridacion
 
 En APEX podemos ver multiples casos de hibridacion. 
 
-Integracion: APEX permite ccrear aplicaciones arrastando componente ya prediseñados que son totalmente "responsive" tanto para web como movil. Por otro lado, permite crearles funcionalidades a necesidad del desarrollador por medio de "dynamic actions" que actuan como eventes dol componente para darle el uso de evento de una web tales como click, cambios, arrastar y una larga lista de ellos. Esto dcrea una hibridacion entre maquetacion y programacion fortaleciendolas, esto hgace que el desarrollo sea mucho mas agil y elimina posibles errores de programacion o estilos.
+* <b>Integracion</b>: APEX permite ccrear aplicaciones arrastando componente ya prediseñados que son totalmente "responsive" tanto para web como movil. Por otro lado, permite crearles funcionalidades a necesidad del desarrollador por medio de "dynamic actions" que actuan como eventes dol componente para darle el uso de evento de una web tales como click, cambios, arrastar y una larga lista de ellos. Esto dcrea una hibridacion entre maquetacion y programacion fortaleciendolas, esto hgace que el desarrollo sea mucho mas agil y elimina posibles errores de programacion o estilos.
 
-Workflow: En la segunda mitad de 2023 Oracle implemento esta nueva funcionalida que permite crear el workflow de una aplicacion. Hasta aghora, siempre hemos creado un diagrama de flujos y seguidamente desarrollado las funciones necesarias para que el workflow funcionara en nuestra aplicacion pero gracias a esta nueva funcioionalidad que ofrece APEX y junbta los diagramas con el flujo de los procesos podemos obtener en tiempo real el funcionamiento de nuestrrea aplicacion y modificarlo de forma muy sencilla
+* <b>Workflow</b>: En la segunda mitad de 2023 Oracle implemento esta nueva funcionalida que permite crear el workflow de una aplicacion. Hasta aghora, siempre hemos creado un diagrama de flujos y seguidamente desarrollado las funciones necesarias para que el workflow funcionara en nuestra aplicacion pero gracias a esta nueva funcioionalidad que ofrece APEX y junbta los diagramas con el flujo de los procesos podemos obtener en tiempo real el funcionamiento de nuestrrea aplicacion y modificarlo de forma muy sencilla.
+
+![Workflow](https://github.com/JRiveroUOC/PEC3_Manovich_Reloaded/blob/main/Captura.JPG)
+
+* <b>Logicas de negocio</b>: Esta aplicacion esta dirigida a cualquier empresa y se enfoca en logicas de negocio complejas. Oracle aPEX permite presentas datos y procesarlos muy rapido ya que esta conectada directamente a la base de datos y toda la APP es tradicida a SQL y PL/SQL que son los lenguasjes que ORcel interpreta. Esta combinacion presenta una hibridacion combinando estas funcionalidades.
+
+* <b>Formularios e Inteligencia artificial</b>: La hibridacionn que podemos ver aqui se da en el caso de la combinacion de estos. En el ultimo "Webbinar" al que gracias a mi empresa pude asistir, pesentaron esta nueva caracteristica donde la IA era capaz de completar formularios dandole pequeños detalles. En el ejempolo, mostraban una web de una universidad la cual recibia cartas de aceptacion. Pero tenian unb problema y es que no siempre estaban redactadas adecuadeamente por lo que implementeropn con apex unos formularios en los que redactabas brebemente quien eras y tuas aficciones y este era capaz de reescribirce a traves de IA grenerativa. 
+
+Para acceder a la proxima sesion el dia 19 de Diciembre, podras registrate en el siguiente enlace [Oracle IA](https://www.oracle.com/es/artificial-intelligence/).
+
 
 ### Referencias y Bibliografía
 
